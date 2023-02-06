@@ -6,7 +6,7 @@
 <h1>Congratulations!</h1>
 <img src="boxfuse.png">
 
-<h2>welcome to devops world:kubernetes</h2>
+<h2>welcome to devops world:kubernetes2.0</h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
